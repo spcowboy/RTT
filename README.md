@@ -19,3 +19,5 @@ Support Functions:
 3.Scripts(python) runnable.
 
 4.Command group.
+
+5.Log.
